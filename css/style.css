@@ -18,7 +18,7 @@ body {
   max-width: 144rem;
   width: 100%;
   height: 100%;
-  border: 0.1rem solid aqua;
+  /*border: 0.1rem solid aqua;*/
 }
 .header {
   background: #fff;
@@ -96,10 +96,10 @@ body {
   top: 57%;
 }
 
-.story {
-  border-bottom: 1px solid #817070;
+/*.story {*/
+/*  border-bottom: 1px solid #817070;*/
 
-}
+/*}*/
 
 .story .title {
   color: #000;
@@ -139,7 +139,7 @@ body {
 }
 
 .blog {
-  border: 1px solid #817070;
+  /*border: 1px solid #817070;*/
   background: #EFEFEF;
 }
 
