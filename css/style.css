@@ -159,8 +159,10 @@ body {
 
 .cards {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: min-content;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 7rem;
+  align-items: center;
+  justify-items: center;
 }
 
 .card {
