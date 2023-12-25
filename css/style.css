@@ -208,3 +208,7 @@ body {
   padding: 0 2rem;
   word-break: break-all;
 }
+.contact {
+  height: 337px;
+  width: 100%;
+}
